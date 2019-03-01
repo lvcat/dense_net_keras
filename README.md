@@ -5,6 +5,6 @@ tensorflow 1.9
 
 the get data file is for cifar_10 datasets which was downloaded locally.  any custom dataset would need a new .py file for loading data
 
-gratefu to 
+grateful to @xzyaoi help QAQ
 
 (poor eng lol im sry)
